@@ -2,7 +2,7 @@
 
 namespace JogoDeAdivinhacao.ConsoleApp
 {
-    // Versão 4: Criar Múltiplas Tentativas
+    // Desafios Concluídos
     internal class Program
     {
         static void Main(string[] args)
